@@ -1,0 +1,13 @@
+.container{
+    width: 960px;
+}
+.ns1{
+    margin-top: 60px;
+}
+.ns2{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.ns3{
+    margin-bottom: 60px;
+}
